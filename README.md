@@ -1,2 +1,2 @@
-# Pandas Data practice
+# Data practice
 
